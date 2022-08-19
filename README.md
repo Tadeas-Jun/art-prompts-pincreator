@@ -1,5 +1,5 @@
 # Pin Creator for Art Prompts
-A utility tool to create graphics of individual prompts for Pinterest for the Art Prompts project.
+📌 A utility tool to create graphics of individual prompts for Pinterest for the Art Prompts project.
 
 The tool uses a template (resources/template.png) and adds prompts written into the resources/input.txt file to generate new images.
 
