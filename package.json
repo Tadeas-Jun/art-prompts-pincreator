@@ -1,0 +1,10 @@
+{
+  "name": "art-prompts-pincreator",
+  "version": "1.0.0",
+  "description": "A utility tool to create graphics of individual prompts for Pinterest for the Art Prompts project.",
+  "main": "pincreator.js",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "author": "Tadeas Jun"
+}
